@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\eddie\Documents\GitHub\artemis65-keyboard\artemis-65\artemis-65.kicad_sch</source>
+    <date>6/10/2022 4:39:52 PM</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>artemis-65.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch_matrix.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eea5cb89-d999-409c-813d-2e69d506ad19</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>922aeedb-cf77-4f74-afe4-cca37efcd0a7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf49488a-8664-40b2-9a44-1dcd33b98c40</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45070ab6-b64a-4f89-8b1f-cb7360925e2c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d557eb3-860c-4a02-bcdf-0c35dc9de891</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cab3670c-40c8-4cc4-97d7-a5e6907d8455</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b9395e6-942a-4c6b-b7a7-82fa0a68b751</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e88499b-16eb-410b-b2dd-b685c877a0e3</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07d20478-c16f-4e60-bd15-c593cbffb468</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad695977-1897-43e7-b697-b1d8ca5caf15</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>AVR-ISP-6</value>
+      <footprint>random-keyboard-parts:Reset_Pretty</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c998aa7-83da-4c11-9145-e39ad76397d2</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>JST SH 4-pin</value>
+      <footprint>random-keyboard-parts:JST-SR-4</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e87ebb9-f8ff-4af0-b267-ae050c9214c9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceff2600-ed49-49c2-9528-509747bf667d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4220423-8398-4c1b-8511-a812911b3747</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ce442cc-2f8c-4227-9e14-4f4e7f3e530e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2fe112f-71ff-47b1-a014-513463178b17</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Reset</value>
+      <footprint>random-keyboard-parts:SKQG-1155865</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bf86094-d6e6-4963-9eb0-291cf51759b7</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega32U4-M</value>
+      <footprint>Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-M" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>024cef38-5927-47cb-8157-ae104f3635b5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0754f76-7c40-45e0-ab06-2f49d2ffd497</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>16MHz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="artemis-65.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a1a77ab-1937-45b0-aea1-a689da97a74e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>70af8cae-d2fb-48ff-8b4d-107738e61844</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>67813521-bc2d-4ba0-abc6-e42556433520</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>52bbc390-b0f4-4fa3-b71e-7a0c23739073</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>15eb8977-0135-44cc-a2ac-3e68ef88a473</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6d7e009b-03e8-41b2-a8ae-b7f6da1f59de</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>3d367912-34dc-4eb0-b9d8-5118130f0c5d</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>ccf4015e-02cc-4981-9daa-6c2a7db1ee1b</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>bc5fba1d-72c5-466d-a410-73c86754451e</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>b197b1fd-bb51-41e0-afdb-7e090b7475ab</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>738c3fef-fbaf-4daa-86bd-46de9b13ea68</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5840706e-e6ab-467d-9c1c-d8ecf2821c7f</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>64fe38b3-bceb-4079-8a36-48438349c940</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>768a798a-dabc-4d4b-83ae-5b0a3d8b0bd7</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8054c864-8f48-46b4-8fa5-61eb85102c48</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>658c83f5-a81a-4497-acfe-5531473ada5d</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8dd164e1-e465-40a6-9dd8-fb740fa41cbe</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>1c5169fa-efc1-45b2-8808-f607e1982b26</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>13197def-f8dd-42bd-b0d1-5a4d82e178d9</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>a45c2f8d-f63a-4e7c-bf35-c570070180f1</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>185b0132-06a3-4e0f-b940-cd05b693c70d</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6a918736-1224-4602-bc0b-e04506de2dd8</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5da025d4-a0de-4fd3-8970-ba8b18c064c4</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>1a4041c7-fc5a-45e0-a33c-2dedee7ecf92</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>f776ecfb-909e-4f31-98ad-d97a7e19fda7</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>9621fc3b-c33f-423c-9ab9-dff63fe201ca</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>188d1b41-0b20-400f-b421-88500adc1b92</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6b8ebc81-7812-4123-b70c-f252ede64bff</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>3656d93b-d17a-4926-958e-b76a62d81762</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6258fba2-7321-4c18-a5b5-37de085081d6</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>81585524-d495-470c-88b6-e2950c4914c0</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>de73590d-1be3-4b81-9796-bcdb6db8aa1c</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8cfa1e5e-38dc-4429-ab33-6f4997973446</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>02f5f6da-551f-41b0-95cb-164df7d67f07</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>bd911eda-1df0-4c17-be94-cbdb98840edc</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6ea90987-95d9-4d28-af32-a2c3b382d226</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5e418e7d-4537-4973-917d-fbe292239238</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>4dda8e27-d90d-43c9-981c-99c9f8862ccd</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>0d4fd9c9-d622-414d-bbd6-c03b17a2a115</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5731ad9f-74ab-49bd-ba3e-a69ec7d7d47c</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>03b14edc-375f-4958-96c6-f4200619bef2</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>df81b569-bd6f-4b0b-8e15-ef08f505dc2c</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>3128d336-b790-4d18-a8c1-06052d408b02</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>580fa47f-f94c-4b65-8f39-670d2317b2f9</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5f2577d3-ee34-47df-9f9c-2e1eb2b1ce48</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>a74ba16b-1240-47ac-8680-beb926c68849</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>7cec6c9a-607e-44a6-af98-83452e83c187</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>9630feaa-87c0-4228-9e80-e4c9753dc123</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>ab643f8d-a0fa-4c64-86f6-7341a4e8c376</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>57a0891d-1565-4a46-9cda-1b053331e15d</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>58879a93-2225-4f97-9b9f-477650ab3fe6</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>84821b79-0c46-472d-8cbc-cb192ad05b1f</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5e17ee63-63e2-4881-8f6f-39ad0e64cab1</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>cc163ed1-bde2-4334-b925-33df17143804</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>0c3dce38-a926-4639-96db-0ff17f4bfa53</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>0cdf7961-525f-4a25-80a5-010f8333e166</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>2eaa8342-21d5-4b1d-8a7b-3d371566af98</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>1bdf1606-a11f-4c40-bc45-561e96accaee</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>e50da50a-0f62-40b4-acaf-98d624e4f947</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5b82b48a-8fa1-4d87-b65d-e8726b4bb9c2</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8f56c395-e8f7-4a14-a718-e4415ab5b122</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>325de520-545c-4ec1-99ec-e0f4c5cd2303</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>ad79a1a2-fcc1-4009-8e53-a7ca627b924a</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>4339b56f-b9cf-4911-ada1-361d8682d962</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>fac760d4-1284-4521-9801-219573b92661</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>SOD-123</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>783caf9d-4324-476e-a13f-fdc754e21b09</tstamps>
+    </comp>
+    <comp ref="MX1">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>773251f8-9245-4482-a3f1-fbb0d4ac0ba1</tstamps>
+    </comp>
+    <comp ref="MX2">
+      <value>1.5u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8123358b-f25a-48cd-9ae6-faab7d162a38</tstamps>
+    </comp>
+    <comp ref="MX3">
+      <value>1.75u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>11a32661-a188-41ed-b597-8b57263c977f</tstamps>
+    </comp>
+    <comp ref="MX4">
+      <value>2.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>962cef92-5236-4045-91bf-4e330be73892</tstamps>
+    </comp>
+    <comp ref="MX5">
+      <value>1.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>1c6c3afa-f633-47e4-944d-8216bdbc2761</tstamps>
+    </comp>
+    <comp ref="MX6">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>4d25c138-df18-455e-b42a-a36c88cd204f</tstamps>
+    </comp>
+    <comp ref="MX7">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>b984f031-35b3-4c1c-bf2c-6daf734ceb59</tstamps>
+    </comp>
+    <comp ref="MX8">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>534fed39-303e-4bcc-90c5-dbbb492ffc0d</tstamps>
+    </comp>
+    <comp ref="MX9">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>83020948-6b07-448b-8945-8525cbcb7411</tstamps>
+    </comp>
+    <comp ref="MX10">
+      <value>1.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>15b0d3c3-83bd-42ec-a687-14d975b6da6f</tstamps>
+    </comp>
+    <comp ref="MX11">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>98c33cd5-4089-4b94-aaa3-0f996085ccf0</tstamps>
+    </comp>
+    <comp ref="MX12">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>42a9d32c-b247-4273-988a-1d765de8ba92</tstamps>
+    </comp>
+    <comp ref="MX13">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>2a4f308a-5e2c-4979-a31b-c1140160b7fa</tstamps>
+    </comp>
+    <comp ref="MX14">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>fe9009fc-bcb1-4733-877b-6959823f0a47</tstamps>
+    </comp>
+    <comp ref="MX15">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>efbcb7fd-0e96-4262-8e06-6d618dab00a2</tstamps>
+    </comp>
+    <comp ref="MX16">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>1d99365b-46cd-47f4-9b9d-9a9a3c0c677a</tstamps>
+    </comp>
+    <comp ref="MX17">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>951f6755-9168-47a4-a486-cbc3cd51f354</tstamps>
+    </comp>
+    <comp ref="MX18">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>203ade24-d1ec-4d15-945c-700a80311762</tstamps>
+    </comp>
+    <comp ref="MX19">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8305000c-5a22-4ec8-bb59-3e0306cfa9fc</tstamps>
+    </comp>
+    <comp ref="MX20">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>f2caa6f3-73ed-4fa6-b3b6-fb72b51d9e4a</tstamps>
+    </comp>
+    <comp ref="MX21">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>d338556f-5a55-4d2b-8331-fe9b7899b49f</tstamps>
+    </comp>
+    <comp ref="MX22">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>2934b399-082a-4e13-b15a-e7a537d975bc</tstamps>
+    </comp>
+    <comp ref="MX23">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>ed1245de-3b66-4450-8c1b-dcf8adad34de</tstamps>
+    </comp>
+    <comp ref="MX24">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>bf3a3c9a-ca28-47fd-8e95-6bee48eb8ca3</tstamps>
+    </comp>
+    <comp ref="MX25">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>7bed3816-797e-49e1-be0c-af67dec03cd6</tstamps>
+    </comp>
+    <comp ref="MX26">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>38f54a76-c767-46b2-ac68-839d9fec8979</tstamps>
+    </comp>
+    <comp ref="MX27">
+      <value>6.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-6.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>135c3dbe-f092-4c81-b034-0191f07b985d</tstamps>
+    </comp>
+    <comp ref="MX28">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5e445d47-62c1-494e-9a1e-39327b7f8863</tstamps>
+    </comp>
+    <comp ref="MX29">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>e58b0ec1-4f5e-4987-9234-f5c9dba5e9bf</tstamps>
+    </comp>
+    <comp ref="MX30">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>eed55ffa-796b-4eb8-a4a5-82f19ae7cdac</tstamps>
+    </comp>
+    <comp ref="MX31">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>bd8b3949-4281-4c9a-8cd8-7e07905084c3</tstamps>
+    </comp>
+    <comp ref="MX32">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>10f319ce-0554-4603-92dc-b026c8f46e31</tstamps>
+    </comp>
+    <comp ref="MX33">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>8ea8ff08-92a9-4c5a-bd64-3bf2cacfa019</tstamps>
+    </comp>
+    <comp ref="MX34">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>96cbfbbf-a8d7-4dd6-b60e-84c860fd5223</tstamps>
+    </comp>
+    <comp ref="MX35">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>f0bf015c-c2ae-43ed-a48e-8af376e306d3</tstamps>
+    </comp>
+    <comp ref="MX36">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>34a2db38-81f9-466f-8768-250097ede4ac</tstamps>
+    </comp>
+    <comp ref="MX37">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>51b57ec9-89d9-46d7-8808-fbfa81e9b931</tstamps>
+    </comp>
+    <comp ref="MX38">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>1fa25cf4-5780-4e42-805f-556d4fa2e3b7</tstamps>
+    </comp>
+    <comp ref="MX39">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>49b79a9c-28f5-4069-b062-2430a2e4f1b4</tstamps>
+    </comp>
+    <comp ref="MX40">
+      <value>1.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>bff26288-4dd2-405d-a162-dcdda743a0ce</tstamps>
+    </comp>
+    <comp ref="MX41">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>88cf8759-a774-49f5-bc20-0871f448c9a2</tstamps>
+    </comp>
+    <comp ref="MX42">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>23fff3ee-fabb-4005-85d2-4f74f4499dc9</tstamps>
+    </comp>
+    <comp ref="MX43">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5413af12-1663-4e32-884d-2b477182a5aa</tstamps>
+    </comp>
+    <comp ref="MX44">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>aea6dbb3-06b3-4437-bd96-78db2a88e520</tstamps>
+    </comp>
+    <comp ref="MX45">
+      <value>1.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>84948993-49e6-45f3-b9f5-10446909d6a7</tstamps>
+    </comp>
+    <comp ref="MX46">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>3b15c9dd-9ce4-459b-a1db-22857c246bae</tstamps>
+    </comp>
+    <comp ref="MX47">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>c7d131b4-46d5-4cdc-b8f8-c32f82fe0611</tstamps>
+    </comp>
+    <comp ref="MX48">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>d2cd0ef3-aa81-46b0-bd4d-15c9c07f84ba</tstamps>
+    </comp>
+    <comp ref="MX49">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>f0bdba8f-7fb1-4778-ab4e-3f88e89450a4</tstamps>
+    </comp>
+    <comp ref="MX50">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>ea050906-2db0-4106-89a3-4ab603f33818</tstamps>
+    </comp>
+    <comp ref="MX51">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>58e65833-a687-4b89-82e9-fab45834b319</tstamps>
+    </comp>
+    <comp ref="MX52">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>5cf74c9c-9424-43cb-be88-82ad81895c3a</tstamps>
+    </comp>
+    <comp ref="MX53">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>a6411c15-ac26-4a94-99e7-ae26c5ad1233</tstamps>
+    </comp>
+    <comp ref="MX54">
+      <value>1.75u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>64667fc8-8315-4fdf-85d9-7a8a5f44f85b</tstamps>
+    </comp>
+    <comp ref="MX55">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>b98b11bb-dbff-4af1-9fce-731fd85e131f</tstamps>
+    </comp>
+    <comp ref="MX56">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>09dea0af-523c-4d79-8548-991c576d175a</tstamps>
+    </comp>
+    <comp ref="MX57">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6f08d228-2771-403f-b154-ef74f962d345</tstamps>
+    </comp>
+    <comp ref="MX58">
+      <value>2.25u</value>
+      <footprint>MX_Alps_Hybrid:MX-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>aca7c531-882e-4307-9e6f-b08d0ca585a2</tstamps>
+    </comp>
+    <comp ref="MX59">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>a1b1a419-172c-45b9-90c2-e3106e48a58d</tstamps>
+    </comp>
+    <comp ref="MX60">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>6faea40d-0aa2-4e33-a10d-57bdc48fca7a</tstamps>
+    </comp>
+    <comp ref="MX61">
+      <value>2u</value>
+      <footprint>MX_Alps_Hybrid:MX-2U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>985d33b9-d9de-4303-bdfc-39ab7db28a00</tstamps>
+    </comp>
+    <comp ref="MX62">
+      <value>1.5u</value>
+      <footprint>MX_Alps_Hybrid:MX-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>54117113-4b85-4673-98a9-4c6b12486480</tstamps>
+    </comp>
+    <comp ref="MX63">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>73df2a3c-8179-421d-a3e5-b1a06114bf7a</tstamps>
+    </comp>
+    <comp ref="MX64">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>53dcbc0f-2470-45ae-8e85-c910b962e332</tstamps>
+    </comp>
+    <comp ref="MX65">
+      <value>MX-NoLED</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="switch_matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/37f31495-4d6e-404f-8f2e-642a19aa3065/"/>
+      <tstamps>b5abd110-8797-41ca-a86b-d4b0676ed215</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AVR-ISP-6">
+      <description>Atmel 6-pin ISP connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>IDC?Header*2x03*</fp>
+        <fp>Pin?Header*2x03*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AVR-ISP-6</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MISO" type="passive"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="SCK" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="~{RST}" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-M">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4-M</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6" type="bidirectional"/>
+        <pin num="2" name="UVCC" type="power_in"/>
+        <pin num="3" name="D-" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="UGND" type="passive"/>
+        <pin num="6" name="UCAP" type="passive"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="PB0" type="bidirectional"/>
+        <pin num="9" name="PB1" type="bidirectional"/>
+        <pin num="10" name="PB2" type="bidirectional"/>
+        <pin num="11" name="PB3" type="bidirectional"/>
+        <pin num="12" name="PB7" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="output"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="PD0" type="bidirectional"/>
+        <pin num="19" name="PD1" type="bidirectional"/>
+        <pin num="20" name="PD2" type="bidirectional"/>
+        <pin num="21" name="PD3" type="bidirectional"/>
+        <pin num="22" name="PD5" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="PD4" type="bidirectional"/>
+        <pin num="26" name="PD6" type="bidirectional"/>
+        <pin num="27" name="PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="~{HWB}/PE2" type="bidirectional"/>
+        <pin num="34" name="VCC" type="passive"/>
+        <pin num="35" name="GND" type="passive"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="AVCC" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>C:\Users\eddie\Documents\GitHub\artemis65-keyboard\artemis-65/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="VCC" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="UVCC" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="VCC" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="AVCC" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="2" name="COL0">
+      <node ref="MX1" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX2" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX3" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX4" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX5" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="COL1">
+      <node ref="MX10" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX6" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX7" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX8" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX9" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL2">
+      <node ref="MX11" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX12" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX13" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX14" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL3">
+      <node ref="MX15" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX16" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX17" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX18" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL4">
+      <node ref="MX19" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX20" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX21" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX22" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL5">
+      <node ref="MX23" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX24" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX25" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX26" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX27" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL6">
+      <node ref="MX28" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX29" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX30" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX31" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="COL7">
+      <node ref="MX32" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX33" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX34" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX35" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="COL8">
+      <node ref="MX36" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX37" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX38" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX39" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX40" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="COL9">
+      <node ref="MX41" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX42" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX43" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX44" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX45" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="COL10">
+      <node ref="MX46" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX47" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX48" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX49" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX50" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="COL11">
+      <node ref="MX51" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX52" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX53" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX54" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX55" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="COL12">
+      <node ref="MX56" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX57" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX58" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX59" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX60" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="COL13">
+      <node ref="MX61" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX62" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX63" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX64" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX65" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="D+">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IO1" pintype="passive"/>
+    </net>
+    <net code="17" name="D-">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="IO4" pintype="passive"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="19" name="MISO">
+      <node ref="J1" pin="1" pinfunction="MISO" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="MOSI">
+      <node ref="J1" pin="4" pinfunction="MOSI" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="UCAP" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX1" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX2" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX3" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX4" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX5" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX6" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX7" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX8" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX9" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX10" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX11" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX12" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX13" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX14" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX15" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX16" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX17" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX18" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX19" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX20" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX21" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX22" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX23" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX24" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX25" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX26" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX27" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX28" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX29" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX30" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX31" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX32" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX33" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX34" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX35" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX36" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX37" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX38" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX39" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX40" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX41" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX42" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX43" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX44" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX45" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX46" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX47" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX48" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX49" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX50" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX51" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX52" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX53" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX54" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX55" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX56" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX57" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX58" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX59" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX60" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX61" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX62" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX63" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D64-Pad2)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX64" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX65" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="RESET">
+      <node ref="J1" pin="5" pinfunction="~{RST}" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="91" name="ROW0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="ROW1">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="ROW2">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="ROW3">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="ROW4">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="SCK">
+      <node ref="J1" pin="3" pinfunction="SCK" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="VBUS">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VP" pintype="passive"/>
+    </net>
+    <net code="98" name="XTAL1">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="99" name="XTAL2">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="IO2" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="IO3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
